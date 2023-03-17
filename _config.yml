@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 #url: 'https://ryzalyusoff.com'
-url: "https://ryzalyusoff.github.io"
-baseurl: "/ryzalyusoff.com"
+url: "https://ryzalyusoff.github.io/ryzalyusoff.com"
+#baseurl: "/ryzalyusoff.com"
 name: ryzalyusoff
 title: Ryzal Yusoff
 description: >- # this means to ignore newlines until "baseurl:"
