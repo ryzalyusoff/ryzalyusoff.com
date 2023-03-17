@@ -1,0 +1,26 @@
+---
+id: 909
+title: 'James Blunt Afterlove Tour 2017'
+date: '2017-11-20T10:30:16+00:00'
+author: ryzalyusoff
+layout: post
+guid: 'https://ryzalyusoff.com/?p=909'
+permalink: /james-blunt-afterlove-tour-2017/
+image: /wp-content/uploads/2020/12/Snapseed-1.jpg
+categories:
+    - Life
+    - Music
+tags:
+    - concert
+    - gig
+    - james-blunt
+    - life
+---
+
+I first started knowing about James Blunt when I first heard him on TV when I was small. But not until the recent years when I moved here in the UK that I’ve been really listening to his musics and been a fan since the first time I heard his full first album Back to Bedlam.
+
+So I was waiting for him to do a tour again so I can go, and this year he is doing just exactly that to promote his recent and 5th studio album, The Afterlove. I book the ticket for the tour in Leeds, as the ones in Manchester already sold out 😅
+
+This video below is the summary of that night:
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="546" src="https://www.youtube.com/embed/-sDlDLNw0Gc?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent" style="border:0;" type="text/html" width="970"></iframe></span></div><figcaption>It was beautiful 🙂</figcaption></figure>
