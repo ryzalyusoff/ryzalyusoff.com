@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 #url: 'https://ryzalyusoff.com'
-#url: "https://ryzalyusoff.github.io/ryzalyusoff.com"
-url: "https://ryzalyusoff.com"
+url: "https://ryzalyusoff.github.io/ryzalyusoff.com"
+#url: "https://ryzalyusoff.com"
 #baseurl: "/ryzalyusoff.com"
 name: ryzalyusoff
 title: Ryzal Yusoff
